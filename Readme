@@ -1,6 +1,3 @@
-My Name Is Amir Shahzad
-I am Ethical Hacker
-
 Step No 1 install php 
 
 Step No 2 php -S localhost:8080
@@ -18,4 +15,5 @@ now run the ssh server on localhost port 8080
 type command on terminal
 
 ssh -R 80:localhost:8080 nokey@localhost.run
-[![video link](image)](https://www.youtube.com/watch?v=R_mMdHmTqlU)
+Video LINK   YouTube   https://www.youtube.com/watch?v=R_mMdHmTqlU
+Video LINk   Facebook  #
