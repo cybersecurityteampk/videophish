@@ -15,5 +15,9 @@ now run the ssh server on localhost port 8080
 type command on terminal
 
 ssh -R 80:localhost:8080 nokey@localhost.run
-Video LINK   YouTube   https://www.youtube.com/watch?v=R_mMdHmTqlU
-Video LINk   Facebook  #
+
+
+How to use this tool
+
+Video LINK   YouTube   https://youtu.be/qr4BE-73MLw
+Video LINk   Facebook  https://www.facebook.com/itteampk/videos/1422562318593532/
