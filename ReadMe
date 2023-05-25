@@ -1,0 +1,20 @@
+My Name Is Amir Shahzad
+I am Ethical Hacker
+
+Step No 1 install php 
+
+Step No 2 php -S localhost:8080
+
+after run this command they can run on local server if you want expose local server to internet then you use ssh server and ngrok server
+
+setup for ssh server
+type in terminal
+
+Step 3 ssh-keygen
+select default director just enter then type password for ssh server
+
+now run the ssh server on localhost port 8080
+
+type command on terminal
+
+ssh -R 80:localhost:8080 nokey@localhost.run
